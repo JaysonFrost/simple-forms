@@ -11,13 +11,22 @@ class Home extends Component {
 	state = {
 		users: [
 			{
-				name: '1232',
-				phone: '232',
-				email: '232',
-				date: '2323',
-				sum: '232',
-				visits: '232',
-				activity: '2322'
+				name: 'Дейнерис Таргариен',
+				phone: '+79223334444',
+				email: 'valarmorgulis@gmail.com',
+				date: '----',
+				sum: '----',
+				visits: '----',
+				activity: '----'
+			},
+			{
+				name: 'Уолтер Уайт',
+				phone: '+78005553535',
+				email: 'blueice@gmail.com',
+				date: '----',
+				sum: '----',
+				visits: '----',
+				activity: '----'
 			}
 		],
 		modal: true,
