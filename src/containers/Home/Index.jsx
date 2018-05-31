@@ -148,7 +148,7 @@ class Home extends Component {
 				email
 			}
 		} = this.state
-		console.log(this.state.users)
+
 		return (
 			<div className={styles.home}>
 				<div className={styles.form}>
